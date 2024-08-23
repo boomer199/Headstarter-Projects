@@ -12,10 +12,13 @@ Link:[ headstarter-pantry-app.vercel.app](https://headstarter-pantry-app.vercel.
 Repo: https://github.com/boomer199/Headstarter-Pantry-App
 
 Fianl Project Waitlist Page:
-Link: [veida-ai.vercel.app](https://veida-ai.vercel.app/)
+Link: [veida-ai.vercel.app](https://veida-ai.vercel.app/) - Took down for better SEO on main project
 Repo: https://github.com/boomer199/waitlist/settings
 
 Project 3 - Resumify Chatbot:
 Link: Did not deploy.
 Repo: https://github.com/boomer199/NextJS-AI-Customer-Support
 
+Project 4 - AI Flashcards App: 
+Link: [veidaai.com](https://www.veidaai.com/)
+Repo: https://github.com/boomer199/Veida-AI
